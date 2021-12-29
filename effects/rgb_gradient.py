@@ -2,7 +2,7 @@
 # Author: Daniel Fernandes
 
 # A simple RGB gradient created using three sine waves, one
-# for each channel, that are equally offset form each other.
+# for each channel, that are equally offset from each other.
 
 from math import *
 
