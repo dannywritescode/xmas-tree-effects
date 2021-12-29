@@ -1,0 +1,3 @@
+*.csv
+tree_effect.py
+__pycache__
