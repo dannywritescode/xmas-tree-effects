@@ -1,4 +1,9 @@
-# Christmas Tree Visualizer
+# Xmas Tree Effects
+These are a few effects that I created for Matt Parker's [Christmas Tree](https://youtu.be/WuMRJf6B5Q4). They are in the [effects](/effects) folder. To preview these effects, you can create a `tree_effect.py` file in the root directory of this repo and copy the code of any one of the effects into it. Then run the `visualiser.py` file to see the effect!
+
+The visualiser is created by [@Aonodensetsu](https://github.com/Aonodensetsu). 
+
+## Christmas Tree Visualizer
 A python wrapper for creating and viewing effects for Matt Parker's christmas tree. Displays PY or CSV effect files and allows creating PY and CSV effects easily.
 
 To use it you need to do a few simple things:
